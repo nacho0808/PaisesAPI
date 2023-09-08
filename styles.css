@@ -1,0 +1,26 @@
+body {
+    font-family: monospace;
+    background-color: #302F4D;
+}
+
+#titulo {
+    background-color: #120D31;
+}
+
+#titulo h1 {
+    color: white; /* Cambia el color del texto a blanco */
+    padding: 15px;
+}
+
+.card{
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-shadow: 5px 10px 10px; 
+}
+
+#countriesList{
+    padding-top: 20px;
+    padding-left: 30px;
+}
